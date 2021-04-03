@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjOIEJH4isMryV8rH2zcK88xPcpLXlNR8KxvVy+CtFAaqD1gaFQOfiF5ilwGJ+VGs8vsrftI0sdwUQt7NQ/EHA==",
+  "success": true,
+  "projectFilePath": "C:\\Odyssey\\Week10\\Rocket-Elevators-Media-Streamer-CSharp\\MediaStreamer\\MediaStreamer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\criss\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
